@@ -1,2 +1,2 @@
-# Programação web - Disciplina 4° se SI
+# Programação web - Disciplina 4° de SI
 
